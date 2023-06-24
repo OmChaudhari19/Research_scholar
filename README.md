@@ -41,5 +41,12 @@ If you encounter any issues or have any questions or suggestions, please feel fr
 ## License
 The Research Paper Fetcher web application is open source and released under the MIT License.
 
-## Web App Link
-https://research-scholar.onrender.com
+## How to Run Locally
+To run the program locally user requires 6 Keys,so user will need to generate this keys to run it locally.
+6 Keys are :
+*  2 keys for Google Authentication(CLIENT_ID,CLIENT_SECRET)
+*  1 keys of MongoDB Atlas Database(MONGO_URI)
+*  3 keys for SerpAPI for fetching Research Papers(API_KEY,AUTH_PASS,AUTH_EMAIL).
+                                    
+* If any kind of problem occurs locally you can check the site on which we have deployed our web application.
+* Link for the site is : https://research-scholar.onrender.com
